@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # added by me
-.tar.gz
+*.tar.gz
 
 # C extensions
 *.so
