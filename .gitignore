@@ -5,6 +5,7 @@ __pycache__/
 
 # added by me
 *.tar.gz
+lesson/l1/assignment1/*/
 
 # C extensions
 *.so
