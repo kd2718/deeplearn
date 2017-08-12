@@ -24,8 +24,10 @@ nbconvert==5.2.1
 nbformat==4.3.0
 notebook==5.0.0
 numpy==1.13.1+mkl
+olefile==0.44
 pandocfilters==1.4.1
 pickleshare==0.7.4
+Pillow==4.2.1
 prompt-toolkit==1.0.14
 protobuf==3.3.0
 Pygments==2.2.0
